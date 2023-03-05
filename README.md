@@ -13,7 +13,6 @@ kubectl apply -f deployments/env
 
 kubectl exec -it <pod name> -- env
 
-
 ```
 
 ## Configmap Map as keys for enviroment variable
