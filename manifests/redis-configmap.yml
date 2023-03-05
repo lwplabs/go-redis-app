@@ -5,6 +5,7 @@ metadata:
 data:
   REDIS_HOST: redis-master
   REDIS_PORT: "6379"
+  instructor: kiran
   redis.conf: |-
     maxmemory 500mb
     maxmemory-policy allkeys-lru
