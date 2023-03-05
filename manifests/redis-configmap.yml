@@ -7,5 +7,5 @@ data:
   REDIS_PORT: "6379"
   instructor: kiran
   redis.conf: |-
-    maxmemory 500mb
+    maxmemory 720mb
     maxmemory-policy allkeys-lru
